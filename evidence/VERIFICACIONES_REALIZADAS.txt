@@ -1,0 +1,16 @@
+REGISTRO DE VERIFICACIONES EN EL ENTORNO DE CREACIÓN — 18/11/2026
+
+REALIZADAS AQUÍ:
+- JavaScript de la demostración: sintaxis comprobada con node --check.
+- Estructura HTML: comprobación estática de cinco secciones, presencia de actividad y ausencia de campo password (Node).
+- Contenido semilla: tres módulos y cinco preguntas con índices válidos y explicaciones (Python/AST).
+- Sintaxis del backend Django: compilación Python sin importar bibliotecas externas.
+
+NO REALIZADAS / NO DEMOSTRADAS:
+- Instalación de dependencias React + Vite + Django + DRF por indisponibilidad de acceso al registro npm/pip.
+- Compilación del frontend React y ejecución de pruebas Django.
+- Ejecución integrada con PostgreSQL, pruebas en navegadores y dispositivos reales.
+- Validación con usuarios del público objetivo; aceptación de nivel TRL 5.
+- Grabación de video, publicación en GitHub y permisos del tutor.
+
+IMPORTANTE: esta verificación no debe confundirse con la evidencia TRL 5 que se exige en la rúbrica.

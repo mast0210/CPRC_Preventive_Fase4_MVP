@@ -1,0 +1,13 @@
+ID,Requerimiento,Escenario,Resultado_esperado,Resultado_obtenido,Estado,Fecha,Probador,Evidencia,Incidencia_y_correccion
+PF-01,RF-01,Navegar entre secciones,"Cinco secciones accesibles",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-02,RF-02,Cargar modulos del backend,"Tres módulos visibles",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-03,RF-03,Consultar phishing e IA,"Contenidos completos y legibles",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-04,RF-04,Cargar cuestionario,"Cinco preguntas visibles",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-05,RF-05,Enviar respuestas correctas e incorrectas,"Servidor calcula resultados",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-06,RF-06,Mostrar retroalimentación,"Explicación por pregunta y total",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-07,RF-07,Consultar recursos,"Enlaces a sitios oficiales",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-08,RNF-01,Usar resolución móvil y escritorio,"Sin recortes ni solapamientos",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-09,RNF-02,Operar por teclado,"Foco visible y navegación operable",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-10,RNF-03,Verificar privacidad,"Sin captura de datos personales",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-11,RNF-04,Comprobar repositorio,"Código accesible para tutor",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE
+PF-12,RNF-05,Comprobar DB,"Solo puntajes agregados",PENDIENTE,NO_EJECUTADA,PENDIENTE,PENDIENTE,PENDIENTE,PENDIENTE

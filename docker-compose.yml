@@ -1,0 +1,13 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: cprc
+      POSTGRES_USER: cprc
+      POSTGRES_PASSWORD: cprc_local
+    ports:
+      - '127.0.0.1:5432:5432'
+    volumes:
+      - cprc_db_data:/var/lib/postgresql/data
+volumes:
+  cprc_db_data:
